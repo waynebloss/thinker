@@ -10,7 +10,7 @@ This is a fork of Thinker for RethinkDB, with one extra feature: The `--ixo`
 flag (or `--indexOnly`) causes `thinksync` to only synchronize indexes, ignoring
 table data.
 
-One other change is that the `sync` command is not the default command, so you
+One other change is that the `sync` command is now the default command, so you
 don't have to pass it.
 
 ### FAQ
