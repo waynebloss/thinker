@@ -1,7 +1,7 @@
 {
   "name": "thinksync",
   "description": "A fork of Thinker for RethinkDB, with one extra feature.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/waynebloss/thinksync",
   "author": "waynebloss",
   "repository": {
