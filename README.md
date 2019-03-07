@@ -1,4 +1,4 @@
-# ThinkSyThinkSync
+# ThinkSync
 
 ### A RethinkDB management tool.
 
